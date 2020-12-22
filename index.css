@@ -1,0 +1,49 @@
+body
+{
+	background-color: #ff3333;
+}
+
+.nav-item
+{
+	color: white;
+
+}
+#q
+{
+	padding-right: 10px;
+
+}
+#a
+{
+	background-color: #ffaa00;
+box-shadow: 5px 10px;
+}
+
+#b
+{
+	background-color: #a64dff;
+	box-shadow: 5px 10px;
+}
+#c
+{
+	background-color: #e69900;
+box-shadow: 5px 10px;
+
+}
+#d
+{
+	background-color: #1ac6ff;
+box-shadow: 5px 10px;
+}
+h3
+{
+	font-family: serif; 
+}
+img
+{
+	border-style: solid;
+}
+#imd
+{
+	margin-left: 200px;
+}
